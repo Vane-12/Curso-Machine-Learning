@@ -61,3 +61,13 @@ overfiting - underfiting (pocos datos para empezar, errores de algoritmos etc)
 Scikit-learn
 Tensorflow (google)
 Prophet
+# Variables univariables y target(una puntuacion)
+nutrir la base de datos
+ejemplo de clasificacion 
+input      output
+x           y (target)
+fotgrafia    perro
+hay que partir en cuatro trocitos el prophet lo hace automaticamente
+80% datos(para el entrenamiento)  20% (supervisado)
+· soluciones de analisis predictivos
+modelos predictivos (machine learning, sirve para hacer tareas sencillas)
