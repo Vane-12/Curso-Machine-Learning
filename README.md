@@ -18,6 +18,9 @@
 
 # Condicionales if y else y pandas.
 
+
+# Dia 2, Martes.
+
 # Bucles
 Cuando queremos repetir algo mas de una vez.
 -Forma facil: For
@@ -33,3 +36,28 @@ lista = [1,2,3,4,5]
 posicion = 0
 While posicion < len (lista)
 numero
+
+# Tratamiento de datos space X:
+Traducir y crear nuevas tablas con la informacion dada.
+
+# Dia 3 
+# Machine Learning:
+Tienen la capacidad de aprender a traves de los datos.
+Entrenar, tiempo de aprendizaje y error aproximado 
+solo puede ser con numeros
+# Tipos de algoritmos 
+1- Supervisado
+2- NO Supervisado
+3-Aprendizaje reforzado (no necesita datos para aprender) aprender comportamientos.
+4- Semisupervisado 
+Otros, batch learning, (aprendizaje no incremetal, el modelo se entrena con todos los datos disponibles)
+online learning(aprender de forma incremental, obtiene informacion y puede ser usada la vez).
+# Deep Learning
+Redes neuronales, mas datos, mas aprendizaje pero mas precision.
+Redes Convolusionales.
+# Seleccionar variables, 
+overfiting - underfiting (pocos datos para empezar, errores de algoritmos etc)
+# Libretias de python
+Scikit-learn
+Tensorflow (google)
+Prophet
