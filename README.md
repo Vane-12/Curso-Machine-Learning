@@ -40,7 +40,7 @@ numero
 - Tratamiento de datos space X:
 Traducir y crear nuevas tablas con la informacion dada.
 
-# Dia 3 
+# Dia 3, Miercoles
 - Machine Learning:
 
 Tienen la capacidad de aprender a traves de los datos.
@@ -79,3 +79,8 @@ hay que partir en cuatro trocitos el prophet lo hace automaticamente
 80% datos(para el entrenamiento)  20% (supervisado)
 · soluciones de analisis predictivos
 modelos predictivos (machine learning, sirve para hacer tareas sencillas)
+
+# Dia 4, Jueves
+Continuacion de lo aprendido anteriormente
+Normalizar luego hacer una lista de hiperparametros 
+matriz de confusion a la izquierda los verdaderos y la derechas los falsos(predicciones)
