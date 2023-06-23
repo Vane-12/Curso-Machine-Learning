@@ -86,4 +86,4 @@ Normalizar luego hacer una lista de hiperparametros
 matriz de confusion a la izquierda los verdaderos y la derechas los falsos(predicciones)
 Predecir una categoria; Clasificacion y regresion.
 Graficas seabor eje x y eje y graficos de punto y de barras.
-Mapas inreractivos
+Analisis de mapas inreractivos
