@@ -84,3 +84,6 @@ modelos predictivos (machine learning, sirve para hacer tareas sencillas)
 Continuacion de lo aprendido anteriormente
 Normalizar luego hacer una lista de hiperparametros 
 matriz de confusion a la izquierda los verdaderos y la derechas los falsos(predicciones)
+Predecir una categoria; Clasificacion y regresion.
+Graficas seabor eje x y eje y graficos de punto y de barras.
+Mapas inreractivos
